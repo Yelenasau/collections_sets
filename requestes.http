@@ -1,0 +1,4 @@
+GET http://localhost:8080/employee/add?fristName=foo&lastName=bar
+###
+
+GET http://localhost:8080/employee/get?fristName=foo&lastName=bar

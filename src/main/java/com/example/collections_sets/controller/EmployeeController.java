@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
-import src.main.java.com.example.collections_sets.model.Employee;
+import com.example.collections_sets.model.Employee;
 
 @RestController
 @RequestMapping("/employee")
