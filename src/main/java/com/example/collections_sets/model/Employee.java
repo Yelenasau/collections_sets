@@ -1,4 +1,4 @@
-package src.main.java.com.example.collections_sets.model;
+package com.example.collections_sets.model;
 
 import java.util.Objects;
 
